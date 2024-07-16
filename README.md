@@ -13,7 +13,13 @@
 - **Años de Estudio**: 2015 - 2020
 
 ## Experiencia Laboral
-Ninguna
+- **Empresa**: Grupo de Pr2
+- **Puesto**: Beta Tester y Front End Developer
+- **Duración**: Enero 2023 - Mayo 2023
+- **Responsabilidades**:
+  - Testeo de la aplicacion
+  - Desarrolo de la interfaz
+  - Busqueda y solucion de errores en el codigo
 
 ## Habilidades
 - Pensamiento crítico/lógico
